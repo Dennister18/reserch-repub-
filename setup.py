@@ -17,7 +17,7 @@ setup(
             "osint-research=src.main:main",
         ],
     },
-    author="Your Name",
+    author="Dennister18",
     description="OSINT-инструмент",
     python_requires=">=3.8",
 )
