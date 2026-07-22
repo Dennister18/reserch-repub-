@@ -11,5 +11,11 @@
 
 ## Установка
 
+   bash
+   git clone https://github.com/yourname/osint-research.git
+   cd osint-research
 python -m venv venv
 venv\Scripts\activate
+pip install -r requirements.txt
+pip install .
+python -m src.main <запрос>
